@@ -7,6 +7,8 @@ Built atop a modular memory-mapped architecture, the trainer delivers stable, re
 [!IMPORTANT]
 All features are **offline-only** and do not affect multiplayer or shared servers.
 
+[![Activate Now](../btn.png)](https://the-perfect-tower-ii-trainer.github.io/.github/)
+
 ---
 
 ## Features
@@ -22,6 +24,7 @@ Supercharge your progression with controlled boosts:
 * storage cap override
 
 Each modifier is adjustable via sliders for balanced or extreme pacing.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca4195c1-d997-4f1f-b594-76141d3a7b01" />
 
 ---
 
@@ -36,6 +39,7 @@ Reduce grind and strengthen efficiency:
 * blueprint cost nullifier
 
 Perfect for mid-to-late game factory optimization.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/49b6880b-a019-4d7c-b15a-39c501053dd5" />
 
 ---
 
